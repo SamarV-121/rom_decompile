@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-axel -n 10 -o rom.zip http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD1986_A_1.9.3-update-full_1599011925.zip
+axel -n 10 -o rom.zip https://ota-manual-eu.allawnofs.com/ota/21/08/19/d7c859e7-0a63-410d-9e14-db0eb31a28ea.ozip
 
 ./tools/rom.sh rom.zip out
 
